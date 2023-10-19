@@ -11,3 +11,10 @@ Updated Horizon Digital Marketing website to make it easier to access for users 
 
 ### URL
 https://anthonycblanco.github.io/Module1-Challenge/#social-media-marketing
+
+## References
+
+Had a hard time figuring out how to get my page to load the CSS and used a solution on this form
+https://stackoverflow.com/questions/52003005/css-not-working-on-github-pages
+
+
