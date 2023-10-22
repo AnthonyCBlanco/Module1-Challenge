@@ -1,7 +1,7 @@
-# Module1-Challenge Accessibility
+# Horiseon Accessibility
 
 ## Description
-Updated Horizon Digital Marketing website to make it easier to access for users that use screen readers, as well as cleaned up the style sheet to better compare to the HTML framework. Added some comments to better organize the style sheet
+Updated Horiseon Digital Marketing website to make it easier to access for users that use screen readers, as well as cleaned up the style sheet to better compare to the HTML framework. Added some comments to better organize the style sheet
 
 ## Preview
 
